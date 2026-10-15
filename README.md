@@ -16,6 +16,9 @@ video files works too.
 **Get it:** [the latest release](https://github.com/mifunetron/blinkloupe-releases/releases/latest), then see
 [Install](#install).
 
+**Learn it:** [the user guide](USER-GUIDE.md) starts with a quick start for the live view and one for Blink, then
+works up to every feature in detail.
+
 - **Live, without slowing renders.** BlinkLoupe is its own process with no node in your graph. It checks the folders once a second
   (one look per folder; a full listing only when something changed) and shows a file only once it is completely written.
 - **Never loses your place.** Step back and BlinkLoupe stays on the frame you are studying; new arrivals are counted
