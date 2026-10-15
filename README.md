@@ -104,6 +104,13 @@ them). Your picks, ratings and other marks are small files beside your images an
 - The log, `%LOCALAPPDATA%\BlinkLoupe\blinkloupe.log`, stays on your computer. Settings > Updates > **Open the log folder** finds it if
   someone asks for it to help with a problem.
 
+## Licence
+
+- **BlinkLoupe** is free to use during the beta; please don't share builds. The source will be released under the
+  [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) after beta.
+- **The [user guide](USER-GUIDE.md)** is licensed under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): you may share and adapt it, crediting mifunetron.
+
 ## Troubleshooting
 
 | What you see | Try |

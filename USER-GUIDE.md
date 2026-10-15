@@ -1166,3 +1166,9 @@ Everything else is the same.
 | **VAE** | The part of the model that turns its internal image into pixels and back. |
 | **Version** | An image made from another: a re-roll, an upscale, a hires finish. |
 | **Watched folder** | A folder BlinkLoupe checks for new images. |
+
+---
+
+*BlinkLoupe User Guide © 2026 mifunetron. Licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): you may share and adapt it, as long as you credit
+mifunetron and say what you changed.*
