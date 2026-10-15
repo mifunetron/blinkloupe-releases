@@ -48,7 +48,7 @@ works up to every feature in detail.
   nodes, WAS text and save nodes, and Image Saver.
 - **Black-frame alarm.** A frame that comes out black (a NaN render) is flagged in red.
 
-This repository holds BlinkLoupe's installers and release notes; the source code is private.
+This repository holds BlinkLoupe's installers and release notes; the source code is at [mifunetron/blinkloupe](https://github.com/mifunetron/blinkloupe).
 
 ## Install
 
@@ -106,8 +106,8 @@ them). Your picks, ratings and other marks are small files beside your images an
 
 ## Licence
 
-- **BlinkLoupe** is free to use during the beta; please don't share builds. The source will be released under the
-  [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) after beta.
+- **BlinkLoupe** is open source under the [Apache License 2.0](https://github.com/mifunetron/blinkloupe/blob/master/LICENSE):
+  the code is at [mifunetron/blinkloupe](https://github.com/mifunetron/blinkloupe); keep its NOTICE (the credit to mifunetron) with any copy.
 - **The [user guide](USER-GUIDE.md)** is licensed under
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): you may share and adapt it, crediting mifunetron.
 
